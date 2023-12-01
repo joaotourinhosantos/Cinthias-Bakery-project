@@ -4,9 +4,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Google
 - Bootstrap
 - JavaScript 
-freeformatter.com
-validator.w3.org
-stackoverflow
+- freeformatter.com
+- validator.w3.org
+- stackoverflow
 
 ## Projeto 
 Cinthia’s Bakery é um site de confeitaria com doces variados.
